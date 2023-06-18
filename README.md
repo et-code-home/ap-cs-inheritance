@@ -3,7 +3,7 @@
 The contents in this repository are designed for students and teachers in AP Computer Science A and are aligned with the [Course Framework](https://apcentral.collegeboard.org/media/pdf/ap-computer-science-a-course-and-exam-description.pdf) provided by the College Board.
 
 
-## Section 1. Creating Superclasses and Subclasses
+## [Section 1. Creating Superclasses and Subclasses](./1-creating-inheritance/README.md)
 
 ### Learning Objectives & Essential Knowledge
 
@@ -13,7 +13,7 @@ The contents in this repository are designed for students and teachers in AP Com
   - Extending a subclass from a superclass creates an “is-a” relationship from the subclass to the superclass.
   - The keyword extends is used to establish an inheritance relationship between a subclass and a superclass. A class can extend only one superclass.
 
-## Section 2. Writing Constructors for Subclasses
+## [Section 2. Writing Constructors for Subclasses](./2-writing-constructors/README.md)
 
 ### Learning Objectives & Essential Knowledge
 
@@ -24,7 +24,7 @@ The contents in this repository are designed for students and teachers in AP Com
   - When a subclass’s constructor does not explicitly call a superclass’s constructor using super, Java inserts a call to the superclass’s no-argument constructor.
   - Regardless of whether the superclass constructor is called implicitly or explicitly, the process of calling superclass constructors continues until the Object constructor is called. At this point, all of the constructors within the hierarchy execute beginning with the Object constructor.
 
-## Section 3. Overriding Methods
+## [Section 3. Overriding Methods](./3-overriding-methods/README.md)
 
 ### Learning Objectives & Essential Knowledge
 
