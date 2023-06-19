@@ -1,4 +1,4 @@
-# Multiple Choice Practice
+# Multiple Choice Practice Questions
 
 ## Inheritance
 
