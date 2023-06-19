@@ -49,4 +49,4 @@ The contents in this repository are designed for students and teachers in AP Com
 Elissa is an experienced software engineer & educator with a M.S. in Computer Science and over 10 years of experience. 
 
 Let's connect!  
-[![linkedin](./imgs/linkedin_logo.png)](https://www.linkedin.com/in/elissa-e-thomas/)
+[![linkedin](./_images/linkedin_logo.png)](https://www.linkedin.com/in/elissa-e-thomas/)

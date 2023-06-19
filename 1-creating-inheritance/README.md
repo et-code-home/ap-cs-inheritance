@@ -2,11 +2,11 @@
 
 ## What is inheritance?
 
-Inheritance allows you to define a class (subclass) that extends the functionality of another class (superclass). The subclass inherits all the properties and methods of the superclass and can add its own additional functionality or override existing methods. 
+Inheritance is a fundamental concept that allows classes to inherit properties and behaviors from other classes. It promotes code organization and facilitates the implementation of polymorphism.
 
 ## How does it work?
 
-TBA
+Inheritance allows you to define a class (subclass) that extends the functionality of another class (superclass). The subclass inherits all the properties and methods of the superclass and can add its own additional functionality or override existing methods. 
 
 ### Superclassses
 
