@@ -105,33 +105,6 @@ d. `methodName(super);`
 
 **Question 7:**
 
-Which of the following statements is true regarding the `super()` keyword in Java?
-
-a. It can only be used inside a constructor  
-b. It can be used to access the superclass members directly  
-c. It is used to create a new instance of the superclass  
-d. It is used to indicate that a method is being overridden  
-
-**Question 8:**
-
-Which of the following is not a benefit of inheritance?
-
-a. Code reusability  
-b. Polymorphism  
-c. Encapsulation  
-d. Flexibility in design and maintenance  
-
-**Question 9:**
-
-Which of the following statements about abstract classes and interfaces is true?
-
-a. An abstract class can be instantiated directly  
-b. An interface can have method implementations  
-c. An abstract class can implement multiple interfaces  
-d. An interface can have instance variables  
-
-**Question 10:**
-
 Which of the following is true about the `instanceof` operator in Java?
 
 a. It checks if an object is equal to a specific value 
