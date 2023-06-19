@@ -1,6 +1,7 @@
 class Dog extends Animal {
-    public Dog(String name) {
+    public Dog(String name, boolean doesTricks) {
         super(name);
+        this.doesTricks = doesTricks;
     }
 
     public void bark() {
